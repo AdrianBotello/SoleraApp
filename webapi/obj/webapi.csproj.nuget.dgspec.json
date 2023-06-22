@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adrian.botello\\source\\repos\\Solution1\\webapi\\webapi.csproj": {}
+    "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adrian.botello\\source\\repos\\Solution1\\webapi\\webapi.csproj": {
+    "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrian.botello\\source\\repos\\Solution1\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\adrian.botello\\source\\repos\\Solution1\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\adrian.botello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.botello\\source\\repos\\Solution1\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\adrian.botello\\Source\\Repos\\SoleraApp\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adrian.botello\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,9 +45,25 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "mongocsharpdriver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
             }
           },
           "imports": [
