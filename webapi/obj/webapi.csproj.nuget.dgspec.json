@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj": {}
+    "C:\\Users\\cristina.sanz\\OneDrive - Solera Holdings, Inc\\Documents\\GitHub\\SoleraApp\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj": {
+    "C:\\Users\\cristina.sanz\\OneDrive - Solera Holdings, Inc\\Documents\\GitHub\\SoleraApp\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.sanz\\OneDrive - Solera Holdings, Inc\\Documents\\GitHub\\SoleraApp\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj",
-        "packagesPath": "C:\\Users\\adrian.botello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.botello\\Source\\Repos\\SoleraApp\\webapi\\obj\\",
+        "projectPath": "C:\\Users\\cristina.sanz\\OneDrive - Solera Holdings, Inc\\Documents\\GitHub\\SoleraApp\\webapi\\webapi.csproj",
+        "packagesPath": "C:\\Users\\cristina.sanz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cristina.sanz\\OneDrive - Solera Holdings, Inc\\Documents\\GitHub\\SoleraApp\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adrian.botello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cristina.sanz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
