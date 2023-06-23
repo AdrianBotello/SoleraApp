@@ -1,25 +1,8 @@
-var builder = WebApplication.CreateBuilder(args);
+﻿using ConsoleApp1.Models;
+using MongoDB.Driver;
 
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
+var client = new MongoClient("mongodb://localhost:27017");
+var database = client.GetDatabase("project");
+var teamsDB = database.GetCollection<Teams>("groups");
+List<Teams> groups = teamsDB.Find(d => true).ToList();
+var foo = 0;
