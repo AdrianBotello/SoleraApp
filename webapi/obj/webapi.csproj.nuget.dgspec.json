@@ -11,7 +11,7 @@
         "projectName": "webapi",
         "projectPath": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\adrian.botello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.botello\\Source\\Repos\\SoleraApp\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\adrian.botello\\source\\repos\\SoleraApp\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adrian.botello\\AppData\\Roaming\\NuGet\\NuGet.Config",
