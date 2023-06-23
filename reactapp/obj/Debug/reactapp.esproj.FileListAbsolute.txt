@@ -2,3 +2,5 @@ C:\Users\adrian.botello\source\repos\Solution1\reactapp\obj\Debug\reactapp.espro
 C:\Users\adrian.botello\source\repos\Solution1\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
 C:\Users\adrian.botello\source\repos\SoleraApp\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
 C:\Users\adrian.botello\source\repos\SoleraApp\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\lucas.munoz\GitHub\SoleraApp\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.munoz\GitHub\SoleraApp\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
