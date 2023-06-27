@@ -1,6 +1,6 @@
 using MongoDB.Bson;
 using MongoDB.Driver;
-
+using ConsoleApp1.Models;
 class GroupController{
 
     

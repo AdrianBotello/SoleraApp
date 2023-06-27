@@ -49,7 +49,7 @@ static void mongoInitializer()
 static void testing(){
     var client = new MongoClient("mongodb://localhost:27017");
     var database = client.GetDatabase("project");
-    var teamsDB = database.GetCollection<Teams>("groups");
-    List<Teams> groups = teamsDB.Find(d => true).ToList();
+    var teamsDB = database.GetCollection<Group>("groups");
+    List<Group> groups = teamsDB.Find(d => true).ToList();
     var foo = 0;
 }
