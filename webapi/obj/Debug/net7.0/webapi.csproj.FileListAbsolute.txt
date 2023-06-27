@@ -125,3 +125,4 @@ C:\Users\lucas.munoz\GitHub\SoleraApp\webapi\obj\Debug\net7.0\refint\webapi.dll
 C:\Users\lucas.munoz\GitHub\SoleraApp\webapi\obj\Debug\net7.0\webapi.pdb
 C:\Users\lucas.munoz\GitHub\SoleraApp\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
 C:\Users\lucas.munoz\GitHub\SoleraApp\webapi\obj\Debug\net7.0\ref\webapi.dll
+C:\Users\lucas.munoz\GitHub\SoleraApp\webapi\bin\Debug\net7.0\Server\basicDB.json
