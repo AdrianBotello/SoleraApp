@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './index.css';
 
 export default class App extends Component {
     static displayName = App.name;
@@ -24,6 +25,7 @@ export default class App extends Component {
                     </tr>
                 </thead>
                 <tbody>
+                    <h1 class="text-3xl font-bold underline"> Hello world! </h1>
                     {forecasts.map(forecast =>
                         <tr key={forecast.date}>
                             <td>{forecast.date}</td>
