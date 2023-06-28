@@ -43,12 +43,13 @@ static void mongoInitializer()
     MongoCRUD db = new MongoCRUD("myDB");
     List<Group> recs = db.LoadRecords<Group>("groups");
     Update();
+    Serialize();
     Read();
 
 
     void Update()
     {
-        using (StreamReader r = new StreamReader("prueba.json"))
+        using (StreamReader r = new StreamReader("INSERT HERE YOUR JSON DOCUMENT TO IMPORT THE DATA.json"))
         {
             Console.WriteLine("Ha entrado en Update");
             string json = r.ReadToEnd();
@@ -65,6 +66,15 @@ static void mongoInitializer()
             Console.WriteLine(items.total_score);
         }
 
+    }
+
+    void Serialize()
+    {
+        recs = db.LoadRecords<Group>("DB games");
+        string json = Newtonsoft.Json.JsonConvert.SerializeObject(recs, Formatting.Indented);
+        Console.WriteLine(json);
+        string filePath = "INSERT HERE YOUR JSON DOCUMENT TO EXPORT THE DATA.json";
+        File.WriteAllText(filePath, json);
     }
 
     void Read()
