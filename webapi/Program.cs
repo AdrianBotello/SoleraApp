@@ -1,6 +1,4 @@
-using MongoDB.Driver;
 using System.Diagnostics;
-using ConsoleApp1.Models;
 
 mongoInitializer();
 
@@ -35,21 +33,4 @@ static void mongoInitializer()
     var mongo = Process.Start("Server/server.bat");
 
     Task.Delay(2000).Wait();
-    MongoClient dbClient = new MongoClient("mongodb://localhost:27017");
-
-    var dbList = dbClient.ListDatabases().ToList();
-
-    Console.WriteLine("The list of databases on this server is: ");
-    foreach (var db in dbList)
-    {
-        Console.WriteLine(db);
-    }
-}
-
-static void testing(){
-    var client = new MongoClient("mongodb://localhost:27017");
-    var database = client.GetDatabase("project");
-    var teamsDB = database.GetCollection<Group>("groups");
-    List<Group> groups = teamsDB.Find(d => true).ToList();
-    var foo = 0;
 }
