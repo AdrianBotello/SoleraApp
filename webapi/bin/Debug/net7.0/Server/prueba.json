@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$binary": {
+      "base64": "7lK+JUEkykOrS49ZVzoO/Q==",
+      "subType": "03"
+    }
+  },
+  "group_name": "Group 1",
+  "total_score": 7,
+  "projects": {
+    "project_name": "Nombre",
+    "score": 15
+  }
+}

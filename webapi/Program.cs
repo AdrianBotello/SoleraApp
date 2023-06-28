@@ -1,7 +1,5 @@
 using System.Diagnostics;
 using AppProject.Models;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
 
 mongoInitializer();
 //mongoTests();
@@ -39,7 +37,7 @@ static void mongoInitializer()
     Task.Delay(2000).Wait();
 }
 
-static void mongoTests()
+/*static void mongoTests()
 {
 
     MongoCRUD db = new MongoCRUD("myDB");
@@ -79,4 +77,4 @@ static void mongoTests()
     }
 
     Console.ReadLine();
-}
+}*/
