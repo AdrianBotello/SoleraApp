@@ -10,6 +10,16 @@ import {
 //import others html pages
 import Mainpage from './html/mainpage'
 
+//in this part add the router
+function App() {
+    return (
+        <React.StrictMode>
+            <RouterProvider router={router} />
+        </React.StrictMode>
+    );
+}
+
+
 //this part is necessary to make the router, to be able to access any page
 const router = createBrowserRouter([
     {
@@ -19,13 +29,6 @@ const router = createBrowserRouter([
     },
 ]);
 
-//in this part add the router
-function App() {
-    return (
-        <React.StrictMode>
-            <RouterProvider router={router} />
-        </React.StrictMode>
-    );
-}
+
 
 export default App;

@@ -1,0 +1,207 @@
+[
+  {
+    "_id": {
+      "$oid": "649ab8f8b499cb62f5b29e2f"
+    },
+    "group_name": "Group 1",
+    "total_score": 10,
+    "projects": [
+      {
+        "project_name": "React App Development",
+        "score": 10
+      },
+      {
+        "project_name": "Lunar Rover",
+        "score": 0
+      },
+      {
+        "project_name": "TDD Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Ping-pong Programming",
+        "score": 0
+      },
+      {
+        "project_name": "BugHunting",
+        "score": 0
+      },
+      {
+        "project_name": "Week 5 Assesment",
+        "score": 0
+      },
+      {
+        "project_name": "Selenium Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Week 6 Assesment",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "649ab8f8b499cb62f5b29e30"
+    },
+    "group_name": "Group 2",
+    "total_score": 20,
+    "projects": [
+      {
+        "project_name": "React App Development",
+        "score": 20
+      },
+      {
+        "project_name": "Lunar Rover",
+        "score": 0
+      },
+      {
+        "project_name": "TDD Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Ping-pong Programming",
+        "score": 0
+      },
+      {
+        "project_name": "BugHunting",
+        "score": 0
+      },
+      {
+        "project_name": "Week 5 Assesment",
+        "score": 0
+      },
+      {
+        "project_name": "Selenium Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Week 6 Assesment",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "649ab8f8b499cb62f5b29e31"
+    },
+    "group_name": "Group 3",
+    "total_score": 0,
+    "projects": [
+      {
+        "project_name": "React App Development",
+        "score": 0
+      },
+      {
+        "project_name": "Lunar Rover",
+        "score": 0
+      },
+      {
+        "project_name": "TDD Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Ping-pong Programming",
+        "score": 0
+      },
+      {
+        "project_name": "BugHunting",
+        "score": 0
+      },
+      {
+        "project_name": "Week 5 Assesment",
+        "score": 0
+      },
+      {
+        "project_name": "Selenium Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Week 6 Assesment",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "649ab8f8b499cb62f5b29e32"
+    },
+    "group_name": "Group 4",
+    "total_score": 0,
+    "projects": [
+      {
+        "project_name": "React App Development",
+        "score": 0
+      },
+      {
+        "project_name": "Lunar Rover",
+        "score": 0
+      },
+      {
+        "project_name": "TDD Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Ping-pong Programming",
+        "score": 0
+      },
+      {
+        "project_name": "BugHunting",
+        "score": 0
+      },
+      {
+        "project_name": "Week 5 Assesment",
+        "score": 0
+      },
+      {
+        "project_name": "Selenium Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Week 6 Assesment",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "649ab8f8b499cb62f5b29e33"
+    },
+    "group_name": "Group 5",
+    "total_score": 0,
+    "projects": [
+      {
+        "project_name": "React App Development",
+        "score": 0
+      },
+      {
+        "project_name": "Lunar Rover",
+        "score": 0
+      },
+      {
+        "project_name": "TDD Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Ping-pong Programming",
+        "score": 0
+      },
+      {
+        "project_name": "BugHunting",
+        "score": 0
+      },
+      {
+        "project_name": "Week 5 Assesment",
+        "score": 0
+      },
+      {
+        "project_name": "Selenium Exercise",
+        "score": 0
+      },
+      {
+        "project_name": "Week 6 Assesment",
+        "score": 0
+      }
+    ]
+  }
+]
