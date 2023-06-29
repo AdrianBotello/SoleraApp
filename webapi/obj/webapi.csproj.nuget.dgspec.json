@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.munoz\\GitHub\\SoleraApp\\webapi\\webapi.csproj": {}
+    "C:\\Users\\isvaku.claure\\source\\SoleraApp\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.munoz\\GitHub\\SoleraApp\\webapi\\webapi.csproj": {
+    "C:\\Users\\isvaku.claure\\source\\SoleraApp\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.munoz\\GitHub\\SoleraApp\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\isvaku.claure\\source\\SoleraApp\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\lucas.munoz\\GitHub\\SoleraApp\\webapi\\webapi.csproj",
-        "packagesPath": "C:\\Users\\lucas.munoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.munoz\\GitHub\\SoleraApp\\webapi\\obj\\",
+        "projectPath": "C:\\Users\\isvaku.claure\\source\\SoleraApp\\webapi\\webapi.csproj",
+        "packagesPath": "C:\\Users\\isvaku.claure\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isvaku.claure\\source\\SoleraApp\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas.munoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\isvaku.claure\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
